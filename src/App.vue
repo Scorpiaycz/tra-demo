@@ -1,6 +1,6 @@
 <template>
   <v-app>
-  <span> Welcome</span>
+  <span> </span>
   <v-content>
     <router-view/> 
   </v-content>

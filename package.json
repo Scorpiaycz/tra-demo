@@ -10,6 +10,7 @@
   "dependencies": {
     "axios": "^0.27.2",
     "firacode": "^5.2.0",
+    "nltk": "^0.0.1",
     "vue": "^2.6.14",
     "vue-router": "^3.5.2",
     "vuetify": "^2.6.5",
